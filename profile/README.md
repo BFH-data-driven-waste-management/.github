@@ -2,7 +2,11 @@
 
 This GitHub organisation contains the codebase for a data-driven public waste management project developed in the context of the City of Biel/Bienne. The work explores how sparse, event-based observations from regular waste collection can be transformed into reliable analytical information and practical decision support without relying on continuous IoT fill-level sensors.
 
-https://github.com/user-attachments/assets/656f3a51-a85d-4669-8bb1-c83aea2d79fa
+
+
+https://github.com/user-attachments/assets/580fbe3f-75f1-435e-97c6-e47f106a3de9
+
+
 
 ## Preliminary Project 2: Data Acquisition
 

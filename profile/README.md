@@ -4,7 +4,9 @@ This GitHub organisation contains the codebase for a data-driven public waste ma
 
 
 
-https://github.com/user-attachments/assets/580fbe3f-75f1-435e-97c6-e47f106a3de9
+
+https://github.com/user-attachments/assets/bd7b5adb-9a49-4d2d-8583-ecd4debc1ceb
+
 
 
 

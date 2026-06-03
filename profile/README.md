@@ -49,6 +49,12 @@ BI Webapp
 
 Together, these repositories form an end-to-end prototype for data-driven waste management: from lightweight field observations, through data validation and transformation, to interactive Business Intelligence views that support operational and structural decision-making.
 
+## Reports
+For both projects, a report was created:
+* [Project 2](/reports/project2.pdf)
+* [Bachelor Thesis](/reports/thesis.pdf)
+
+Most domain-specific and technical documentation is either available in the respective repositories or in the reports.
 
 ---
 ## License

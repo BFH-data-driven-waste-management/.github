@@ -48,3 +48,11 @@ BI Webapp
 ```
 
 Together, these repositories form an end-to-end prototype for data-driven waste management: from lightweight field observations, through data validation and transformation, to interactive Business Intelligence views that support operational and structural decision-making.
+
+
+---
+## License
+
+Copyright (c) 2026 Affolter Marco, Scherer Janic, Scherer Luca. All rights reserved.
+
+This organisation is made available for academic, educational, and research purposes only. Commercial use, redistribution, sublicensing, hosted use, or use in production systems requires prior written permission from the copyright holders. See the LICENSE files in each repository for details.

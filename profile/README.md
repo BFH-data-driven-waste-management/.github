@@ -1,4 +1,4 @@
-# BFH Data-Driven Waste Management
+# Overview
 
 This GitHub organisation contains the codebase for a data-driven public waste management project developed in the context of the City of Biel/Bienne. The work explores how sparse, event-based observations from regular waste collection can be transformed into reliable analytical information and practical decision support without relying on continuous IoT fill-level sensors.
 

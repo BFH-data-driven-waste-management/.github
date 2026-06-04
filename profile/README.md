@@ -60,7 +60,7 @@ Together, these repositories form an end-to-end prototype for data-driven waste 
 ## Reports
 For both projects, a report was created:
 * [Project 2](/reports/project2.pdf)
-* [Bachelor Thesis](/reports/thesis.pdf)
+* Bachelor Thesis coming soon.
 
 Most domain-specific and technical documentation is either available in the respective repositories or in the reports.
 
